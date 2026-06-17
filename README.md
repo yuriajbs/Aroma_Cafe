@@ -70,7 +70,7 @@ O ticket médio não apresentou grandes flutuações quando em relação ao fatu
 A estratégia de negócios deve focar em aumentar o volume de clientes e o valor de cada cesta de compras.
 
 ## 5. O produto final do projeto
-Painel em PDF, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet ou offline mediante "download". O painel pode ser acessado através desse link: https://github.com/yuriajbs/Aroma_Café.git
+Painel em PDF, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet ou offline mediante "download". O painel pode ser acessado através desse link: https://github.com/yuriajbs/Aroma_Cafe.git
 
 ## 6. Conclusão
 O objetivo desse projeto é criar uma visão analítica global da Aroma Café. Assim, ao passar pelas quatro etapas da análise de dados (Descritiva, Diagnóstica, Preditiva e Prescritiva) foram criados diversos conjuntos de gráficos e/ou tabelas  com métricas que respodem aos questionamentos sobre flutuações nos números de vendas e no fluxo de clientes ocorridos na empresa. A partir disso, para um contínuo aumento de receita, constatou-se que  a estratégia de negócios deve focar em aumentar o volume de clientes e o valor de cada cesta de compras. 
